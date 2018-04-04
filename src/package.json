@@ -1,0 +1,16 @@
+{
+  "name": "react-google-autocomplete-maps-coverage-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/m4o868qj58",
+  "main": "index.js",
+  "dependencies": {
+    "google-map-react": "0.27.0",
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "react-google-autocomplete": "1.0.15",
+    "semantic-ui-css": "2.2.12",
+    "semantic-ui-react": "0.77.2"
+  }
+}
